@@ -105,11 +105,11 @@ langchain-mcp-calculator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/langchain-mcp-calculator.git
+git clone https://github.com/Digvijaysingh8/langchain-mcp-calculator.git
 cd langchain-mcp-calculator
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `Digvijaysingh8` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
